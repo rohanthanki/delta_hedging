@@ -1,0 +1,37 @@
+﻿  Hedging_Portfolio.cpp
+  Option.cpp
+  main.cpp
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(98,39): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(136,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(143,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(159,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(160,56): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(165,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(168,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(238,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(239,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project_Parts.cpp
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(98,39): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(136,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(143,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(159,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(160,56): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(165,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(168,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(238,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(239,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Utilities.cpp
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(98,39): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(136,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(143,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(159,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(160,56): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(165,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(168,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(238,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\Sys_Comp_Midterm_Project\Utilities.cpp(239,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sys_Comp_Midterm_Project.vcxproj -> C:\Users\rohan\OneDrive\Documents\QCF\Courses\Design_Systems_Comp_Fin\Projects\Midterm_Project\Sys_Comp_Midterm_Project\x64\Release\Sys_Comp_Midterm_Project.exe
